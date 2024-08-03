@@ -89,6 +89,9 @@ export const App = () => {
 
           handleMinusNumbers()
 
+          break;
+
+
         case '*':
           handleMultNumbers()
 
